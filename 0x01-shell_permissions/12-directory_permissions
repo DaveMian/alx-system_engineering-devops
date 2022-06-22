@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir dir_my_first_directory -m=751
